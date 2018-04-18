@@ -1,0 +1,34 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mattdeliavariationnav.com" resolutions="1x" timestamp="1524059491134">
+  <folder name="css">
+    <file name="site_global.css" crc="373709799"/>
+    <file name="index.css" crc="526401868" ref="index"/>
+    <file name="variation-2.css" crc="3828426662" ref="variation-2"/>
+    <file name="variation-1.css" crc="3926663068" ref="variation-1"/>
+    <file name="variation-5.css" crc="4205632404" ref="variation-5"/>
+    <file name="variation-3.css" crc="3867236268" ref="variation-3"/>
+    <file name="variation-4.css" crc="3972725440" ref="variation-4"/>
+  </folder>
+  <folder name="assets">
+    <file name="redbleedgif.mp4" crc="506364862" seo="true" mt="1522848090000"/>
+    <file name="life.gif" crc="4211126215" seo="true" mt="1522846220000"/>
+    <file name="redbleed.gif" crc="4056007677" seo="true" mt="1520862908000"/>
+    <file name="sound-var.gif" crc="501499645" seo="true" mt="1524059410000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="museutils.js" crc="3803043152" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="museconfig.js" crc="380897831" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="require.js" crc="4157109226" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+  </folder>
+  <file name="index.html" crc="4222764927" seo="true" mt="1522848145774" redirect="true"/>
+  <file name="variation-1.html" crc="3830980445" seo="true" mt="1523275871347" redirect="true"/>
+  <file name="variation-2.html" crc="192384602" seo="true" mt="1523275803676" redirect="true"/>
+  <file name="variation-3.html" crc="82067495" seo="true" mt="1523275865677" redirect="true"/>
+  <file name="variation-4.html" crc="118128117" seo="true" mt="1523275713584" redirect="true"/>
+  <file name="variation-5.html" crc="3833906225" seo="true" mt="1523275144673" redirect="true"/>
+</manifest>
